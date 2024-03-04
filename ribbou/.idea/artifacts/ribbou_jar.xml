@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ribbou:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ribbou_jar</output-path>
+    <root id="archive" name="ribbou.jar">
+      <element id="module-output" name="ribbou" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../security/out/artifacts/security_jar/security.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
